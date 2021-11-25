@@ -231,7 +231,28 @@
 
                                         <!-- Start IQ Test -->
                                         <div class="row cont" id="iq_div" hidden>
-                                            <div class="col-sm-12">
+                                            <div class="col-sm-6">
+                                                <div class="card">
+                                                    <div class="card-header">
+                                                        <h5>IQ Test</h5>
+                                                    </div>
+                                                    <div class="card-block table-border-style">
+                                                        <div class="card-block">
+                                                            <span class="label label-primary">Question 1</span>
+                                                            <img src="https://super7tech.com/web_developer_exam/layout/images/question_1.png" class="img-fluid"><hr>
+                                                            <span class="label label-primary">Question 2</span>
+                                                            <img src="https://super7tech.com/web_developer_exam/layout/images/question_2.png" class="img-fluid"><hr>
+                                                            <span class="label label-primary">Question 3</span>
+                                                            <img src="https://super7tech.com/web_developer_exam/layout/images/question_3.png" class="img-fluid"><hr>
+                                                            <span class="label label-primary">Question 4</span>
+                                                            <img src="https://super7tech.com/web_developer_exam/layout/images/question_4.png" class="img-fluid"><hr>
+                                                            <span class="label label-primary">Question 5</span>
+                                                            <img src="https://super7tech.com/web_developer_exam/layout/images/question_5.png" class="img-fluid">
+                                                        </div>
+                                                    </div>
+                                                </div>  
+                                            </div>
+                                            <div class="col-sm-6">
                                                 <div class="card">
                                                     <div class="card-header">
                                                         <h5>IQ Test</h5>
